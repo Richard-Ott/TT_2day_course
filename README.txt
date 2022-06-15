@@ -23,15 +23,17 @@ Welcome to the 2day TopoToolbox course with Matlab live scripts. For this course
 you do not need any prior knowledge of TT but you have to be able to navigate
 your way around standard Matlab (or similar) coding.
 TopoToolbox can be downloaded here: https://github.com/wschwanghart/topotoolbox
+and Wolfgang Schwanghart has created a helpful blog that can be accessed here
+https://topotoolbox.wordpress.com/
 
 For every practical you find 2 files. The one without 'key' in the file is the
 actual practical, where you need to fill in all the gaps yourself to make the code
 run. The other is the practical 'key' where you can look up the potential solution.
 
-Please, report bus to richard.ott1900@gmail.com
+Please, report bugs to richard.ott1900@gmail.com
 
 References:
-Schwanghart, W., and Scherler, D., 2014, Short Communication: TopoToolbox 2-MATLAB874
+Schwanghart, W., and Scherler, D., 2014, Short Communication: TopoToolbox 2-MATLAB-
 based software for topographic analysis and modeling in Earth surface sciences: Earth Surf.
 Dynam, v. 2, p. 1–7, doi:10.5194/esurf-2-1-2014.
 
